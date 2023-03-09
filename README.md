@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Donald Chandonnet
 - 👀 I’m interested in growing and breeding Dahlias
-- 🌱 I’m always learning and forgetting, dislexic too makes programming extra difficult :-)
+- 🌱 I’m always learning and forgetting, dislexic too makes programming extra fun :-)
 - 📫 How to reach me: dahliasottawaagain.blogspot.com
 -
 

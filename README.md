@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Donald Chandonnet
 - 👀 I’m interested in growing and breeding Dahlias
-- 🌱 I’m currently learning Obsidian and Alfred automation
-- 📫 How to reach me: smile4yourself@yahoo.ca
+- 🌱 I’m always learning and forgetting, dislexic too makes programming extra difficult :-)
+- 📫 How to reach me: dahliasottawaagain.blogspot.com
+-
 
 <!---
 smile4yourself/smile4yourself is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Donald Chandonnet
+- 👋 Hi,
 - 👀 I’m interested in growing and breeding Dahlias, making art, and technology
 - 🌱 I’m always learning and forgetting, dislexic too makes programming extra fun :-)
 - 📫 How to see the garden: dahliasottawaagain.blogspot.com
